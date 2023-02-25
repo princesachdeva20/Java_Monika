@@ -1,5 +1,9 @@
 Second Stage of GitHub. This contains git commands.
 
+Use the Rolling link for the Github Tutorial
+
+https://gitimmersion.com/lab_03.html
+
 Create a Repo
 
 
