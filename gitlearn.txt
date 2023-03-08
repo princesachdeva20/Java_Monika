@@ -18,7 +18,8 @@ Create a Repo
 7. Make sure you are in SSH mode
 8. Copy the code snippet with the push command (2nd one from the bottom)
 9. Paste the command in your terminal
-10. Voila! Look for your success message (100%/100%)
+10. Perform the git push command
+11. Voila! Look for your success message (100%/100%)
 
 
 _____________
